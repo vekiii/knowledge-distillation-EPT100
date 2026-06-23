@@ -45,9 +45,9 @@ Visualization using the Grad-CAM method confirmed that baseline HL models often 
 
 ## 📦 Downloading Model Weights (Hugging Face)
 
-All trained model weights (Baseline HL, KD T=3, KD T=10) can be downloaded from the Hugging Face repository:
+All trained model weights (Baseline HL, KD T=3, KD T=10) and evaluation results can be downloaded from the Hugging Face repository:
 
-🔗 **[LINK TO HUGGING FACE REPOSITORY](insert_your_hf_link_here)**
+🔗 **[LINK TO HUGGING FACE REPOSITORY](https://huggingface.co/vekiii/knowledge-distillation-EPT100/tree/main)**
 
 To run the models, open the Jupyter notebook file and follow the steps. The project was done in Google Colab, so it contains a specific setup.
 
