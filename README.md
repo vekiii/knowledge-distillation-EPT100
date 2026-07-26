@@ -38,6 +38,7 @@ Visualization using the Grad-CAM method confirmed that baseline HL models often 
 * `knowledge_distillation_EPT100.ipynb` - Jupyter Notebook containing the complete pipeline for training, distillation, and evaluation.
 * `izvestaj.pdf` - The complete research paper/thesis containing detailed theoretical background and analysis. **(SERBIAN VERSION)**
 * `README.md` - Project overview (this file).
+* `Report_KnowledgeDistillation_EN.pdf` - English version of the report
 
 > ⚠️ **Note on Model Weights:** Due to GitHub file size restrictions, the complete network weights in the `knowledge_distillation_EPT100` folder are hosted on Hugging Face.
 
